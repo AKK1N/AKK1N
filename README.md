@@ -10,8 +10,6 @@
   <img src="./assets/logo-akkin.png" width="300" alt="Logo AKK1N">
 </p>
 
-<br>
-
 ---
 
 - 🎓 Estudante de **Desenvolvimento de Sistemas** (1º Semestre)
