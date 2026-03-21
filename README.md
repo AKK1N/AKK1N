@@ -1,4 +1,10 @@
-# Olá, meu nome é Breno Adriano! 👋
+<div align="center">
+  # Olá, meu nome é Breno Adriano! 👋
+
+  <img src="./assets/logo-akk1n.png" width="200" alt="Logo AKK1N">
+</div>
+
+<br>
 
 - 🎓 Estudante de **Desenvolvimento de Sistemas** (1º Semestre)
 - 🐍 Focado em dominar **Python** e as bases da Web (**HTML & CSS**)
