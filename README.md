@@ -1,7 +1,7 @@
 <div align="center">
   # Olá, meu nome é Breno Adriano! 👋
 
-  <img src="./assets/logo-akk1n.png" width="200" alt="Logo AKK1N">
+  <img src="./assets/logo 1 menor.png" width="200" alt="Logo AKK1N">
 </div>
 
 <br>
