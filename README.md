@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/logo-akkin.png" width="300" alt="Logo AKK1N">
+  <img src="./assets/logo.png" width="300" alt="Logo AKK1N">
 </p>
 
 ---
